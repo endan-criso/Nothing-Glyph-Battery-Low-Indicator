@@ -1,3 +1,4 @@
+
 <a href = "[http](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)"><h1>Nothing Glyph Communication</h1></a>
 
 <h4>This is a simple Android project for messing around with Nothing Phone Glyph lights using the official Glyph API.
@@ -6,10 +7,10 @@ It shows how to connect to the Glyph framework and trigger light effects directl
 <br>
 <h3>Demo</h3>
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/adc625c3-9d7d-488b-b4f0-8a3833c7e9ec" 
-         width="500" 
+  <video src="https://github.com/user-attachments/assets/357dffa3-9648-48b7-a65c-84d634b1a5a5" 
+         width="300" 
          autoplay muted loop playsinline 
-         style="pointer-events: none; border-radius: 15px;">
+         style="pointer-events: none; border-radius: 12px; border: 1px solid #333;">>
   </video>
 </div>
 
